@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "HTML website",
+      "description": "lorem ipsum",
+      "technologies": ["HTML", "CSS"]
+    },
+    {
+      "id": 2,
+      "title": "NPM clone",
+      "description": "lorem ipsum",
+      "technologies": ["HTML", "CSS"]
+    },
+    {
+      "id": 3,
+      "title": "Backend web app",
+      "description": "lorem ipsum",
+      "technologies": ["JavaScript", "Express"]
+    },
+    {
+      "id": 4,
+      "title": "React recipies app",
+      "description": "lorem ipsum",
+      "technologies": ["JavaScript", "React"]
+    },
+    {
+      "id": 5,
+      "title": "Netflix Clone",
+      "description": "lorem ipsum",
+      "technologies": ["JavaScript", "React"]
+    }
+]

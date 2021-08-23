@@ -5,9 +5,28 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  text-align: center;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+h1,
+p {
+  font-family: Lato;
+}
+
+nav {
+  border-bottom: 1px solid #999;
+}
+
+nav li {
+  display: inline-block;
+  padding: 0 5px;
+}
+
+nav li a.active {
+  color: orange;
+}
+
+footer {
+  border-top: 1px solid #999;
+  padding-top: 2rem;
 }
